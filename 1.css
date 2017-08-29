@@ -1,0 +1,18 @@
+	.block{
+			background:#f90;
+			margin-top: 2%;
+			margin-left: 2%;
+			float: left;
+			border-radius: 1em;
+			width: 30%;
+			padding-top: 30%;
+
+		}
+	.box{
+			width: 100%;
+		
+		}
+		
+	body{
+			font-size: 62.5%;
+		}
